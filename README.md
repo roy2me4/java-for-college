@@ -1,2 +1,2 @@
-# java-for-college
-java exercise
+# hello
+hello to all of you in github
